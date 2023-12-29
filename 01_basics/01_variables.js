@@ -10,7 +10,7 @@ account_email = "hs@abc.com"
 account_password = "5356475"
 account_city = "Bengaluru"
 
-console.log(account_id);
+// console.log(account_id);
 
 /* 
 Prefer not to use var
